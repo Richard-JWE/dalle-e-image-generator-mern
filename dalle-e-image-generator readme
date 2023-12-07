@@ -1,0 +1,5 @@
+DALL-E: Developed by OpenAI, DALL-E is a powerful image generation AI model. It generates images from textual descriptions given as prompts. It uses a variation of the GPT (Generative Pre-trained Transformer) 
+architecture that was trained on a diverse range of images and their corresponding text descriptions to understand and generate novel images.
+
+MERN Stack: It stands for MongoDB, Express.js, React, and Node.js. It's a popular combination of technologies used for building web applications. MongoDB is a NoSQL database, Express.js is a backend web application framework for Node.js, 
+React is a JavaScript library for building user interfaces, and Node.js is a JavaScript runtime used for building server-side applications.
